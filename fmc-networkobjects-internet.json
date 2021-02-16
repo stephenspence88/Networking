@@ -1,0 +1,560 @@
+[
+    {
+        "name": "1.0.0.0-255.0.0.0",
+        "type": "Network",
+        "value": "1.0.0.0/8",
+        "description": "Internet"
+    },
+    {
+        "name": "2.0.0.0-254.0.0.0",
+        "type": "Network",
+        "value": "2.0.0.0/7",
+        "description": "Internet"
+    },
+    {
+        "name": "4.0.0.0-252.0.0.0",
+        "type": "Network",
+        "value": "4.0.0.0/6",
+        "description": "Internet"
+    },
+    {
+        "name": "8.0.0.0-254.0.0.0",
+        "type": "Network",
+        "value": "8.0.0.0/7",
+        "description": "Internet"
+    },
+    {
+        "name": "11.0.0.0-255.0.0.0",
+        "type": "Network",
+        "value": "11.0.0.0/8",
+        "description": "Internet"
+    },
+    {
+        "name": "12.0.0.0-252.0.0.0",
+        "type": "Network",
+        "value": "12.0.0.0/6",
+        "description": "Internet"
+    },
+    {
+        "name": "16.0.0.0-240.0.0.0",
+        "type": "Network",
+        "value": "16.0.0.0/4",
+        "description": "Internet"
+    },
+    {
+        "name": "32.0.0.0-224.0.0.0",
+        "type": "Network",
+        "value": "32.0.0.0/3",
+        "description": "Internet"
+    },
+    {
+        "name": "64.0.0.0-224.0.0.0",
+        "type": "Network",
+        "value": "64.0.0.0/3",
+        "description": "Internet"
+    },
+    {
+        "name": "96.0.0.0-240.0.0.0",
+        "type": "Network",
+        "value": "96.0.0.0/4",
+        "description": "Internet"
+    },
+    {
+        "name": "112.0.0.0-248.0.0.0",
+        "type": "Network",
+        "value": "112.0.0.0/5",
+        "description": "Internet"
+    },
+    {
+        "name": "120.0.0.0-252.0.0.0",
+        "type": "Network",
+        "value": "120.0.0.0/6",
+        "description": "Internet"
+    },
+    {
+        "name": "124.0.0.0-254.0.0.0",
+        "type": "Network",
+        "value": "124.0.0.0/7",
+        "description": "Internet"
+    },
+    {
+        "name": "126.0.0.0-255.0.0.0",
+        "type": "Network",
+        "value": "126.0.0.0/8",
+        "description": "Internet"
+    },
+    {
+        "name": "128.0.0.0-224.0.0.0",
+        "type": "Network",
+        "value": "128.0.0.0/3",
+        "description": "Internet"
+    },
+    {
+        "name": "160.0.0.0-248.0.0.0",
+        "type": "Network",
+        "value": "160.0.0.0/5",
+        "description": "Internet"
+    },
+    {
+        "name": "168.0.0.0-255.0.0.0",
+        "type": "Network",
+        "value": "168.0.0.0/8",
+        "description": "Internet"
+    },
+    {
+        "name": "169.0.0.0-255.128.0.0",
+        "type": "Network",
+        "value": "169.0.0.0/9",
+        "description": "Internet"
+    },
+    {
+        "name": "169.128.0.0-255.192.0.0",
+        "type": "Network",
+        "value": "169.128.0.0/10",
+        "description": "Internet"
+    },
+    {
+        "name": "169.192.0.0-255.224.0.0",
+        "type": "Network",
+        "value": "169.192.0.0/11",
+        "description": "Internet"
+    },
+    {
+        "name": "169.224.0.0-255.240.0.0",
+        "type": "Network",
+        "value": "169.224.0.0/12",
+        "description": "Internet"
+    },
+    {
+        "name": "169.240.0.0-255.248.0.0",
+        "type": "Network",
+        "value": "169.240.0.0/13",
+        "description": "Internet"
+    },
+    {
+        "name": "169.248.0.0-255.252.0.0",
+        "type": "Network",
+        "value": "169.248.0.0/14",
+        "description": "Internet"
+    },
+    {
+        "name": "169.252.0.0-255.254.0.0",
+        "type": "Network",
+        "value": "169.252.0.0/15",
+        "description": "Internet"
+    },
+    {
+        "name": "169.255.0.0-255.255.0.0",
+        "type": "Network",
+        "value": "169.255.0.0/16",
+        "description": "Internet"
+    },
+    {
+        "name": "170.0.0.0-254.0.0.0",
+        "type": "Network",
+        "value": "170.0.0.0/7",
+        "description": "Internet"
+    },
+    {
+        "name": "172.0.0.0-255.224.0.0",
+        "type": "Network",
+        "value": "172.0.0.0/11",
+        "description": "Internet"
+    },
+    {
+        "name": "172.32.0.0-255.224.0.0",
+        "type": "Network",
+        "value": "172.32.0.0/11",
+        "description": "Internet"
+    },
+    {
+        "name": "172.64.0.0-255.192.0.0",
+        "type": "Network",
+        "value": "172.64.0.0/10",
+        "description": "Internet"
+    },
+    {
+        "name": "172.128.0.0-255.128.0.0",
+        "type": "Network",
+        "value": "172.128.0.0/9",
+        "description": "Internet"
+    },
+    {
+        "name": "173.0.0.0-255.0.0.0",
+        "type": "Network",
+        "value": "173.0.0.0/8",
+        "description": "Internet"
+    },
+    {
+        "name": "174.0.0.0-254.0.0.0",
+        "type": "Network",
+        "value": "174.0.0.0/7",
+        "description": "Internet"
+    },
+    {
+        "name": "176.0.0.0-240.0.0.0",
+        "type": "Network",
+        "value": "176.0.0.0/4",
+        "description": "Internet"
+    },
+    {
+        "name": "192.0.1.0-255.255.255.0",
+        "type": "Network",
+        "value": "192.0.1.0/24",
+        "description": "Internet"
+    },
+    {
+        "name": "192.0.3.0-255.255.255.0",
+        "type": "Network",
+        "value": "192.0.3.0/24",
+        "description": "Internet"
+    },
+    {
+        "name": "192.0.4.0-255.255.252.0",
+        "type": "Network",
+        "value": "192.0.4.0/22",
+        "description": "Internet"
+    },
+    {
+        "name": "192.0.8.0-255.255.248.0",
+        "type": "Network",
+        "value": "192.0.8.0/21",
+        "description": "Internet"
+    },
+    {
+        "name": "192.0.16.0-255.255.240.0",
+        "type": "Network",
+        "value": "192.0.16.0/20",
+        "description": "Internet"
+    },
+    {
+        "name": "192.0.32.0-255.255.224.0",
+        "type": "Network",
+        "value": "192.0.32.0/19",
+        "description": "Internet"
+    },
+    {
+        "name": "192.0.64.0-255.255.192.0",
+        "type": "Network",
+        "value": "192.0.64.0/18",
+        "description": "Internet"
+    },
+    {
+        "name": "192.0.128.0-255.255.128.0",
+        "type": "Network",
+        "value": "192.0.128.0/17",
+        "description": "Internet"
+    },
+    {
+        "name": "192.1.0.0-255.255.0.0",
+        "type": "Network",
+        "value": "192.1.0.0/16",
+        "description": "Internet"
+    },
+    {
+        "name": "192.2.0.0-255.254.0.0",
+        "type": "Network",
+        "value": "192.2.0.0/15",
+        "description": "Internet"
+    },
+    {
+        "name": "192.4.0.0-255.252.0.0",
+        "type": "Network",
+        "value": "192.4.0.0/14",
+        "description": "Internet"
+    },
+    {
+        "name": "192.8.0.0-255.248.0.0",
+        "type": "Network",
+        "value": "192.8.0.0/13",
+        "description": "Internet"
+    },
+    {
+        "name": "192.16.0.0-255.240.0.0",
+        "type": "Network",
+        "value": "192.16.0.0/12",
+        "description": "Internet"
+    },
+    {
+        "name": "192.32.0.0-255.224.0.0",
+        "type": "Network",
+        "value": "192.32.0.0/11",
+        "description": "Internet"
+    },
+    {
+        "name": "192.64.0.0-255.240.0.0",
+        "type": "Network",
+        "value": "192.64.0.0/12",
+        "description": "Internet"
+    },
+    {
+        "name": "192.80.0.0-255.248.0.0",
+        "type": "Network",
+        "value": "192.80.0.0/13",
+        "description": "Internet"
+    },
+    {
+        "name": "192.88.0.0-255.255.192.0",
+        "type": "Network",
+        "value": "192.88.0.0/18",
+        "description": "Internet"
+    },
+    {
+        "name": "192.88.64.0-255.255.224.0",
+        "type": "Network",
+        "value": "192.88.64.0/19",
+        "description": "Internet"
+    },
+    {
+        "name": "192.88.96.0-255.255.254.0",
+        "type": "Network",
+        "value": "192.88.96.0/23",
+        "description": "Internet"
+    },
+    {
+        "name": "192.88.98.0-255.255.255.0",
+        "type": "Network",
+        "value": "192.88.98.0/24",
+        "description": "Internet"
+    },
+    {
+        "name": "192.88.100.0-255.255.252.0",
+        "type": "Network",
+        "value": "192.88.100.0/22",
+        "description": "Internet"
+    },
+    {
+        "name": "192.88.104.0-255.255.248.0",
+        "type": "Network",
+        "value": "192.88.104.0/21",
+        "description": "Internet"
+    },
+    {
+        "name": "192.88.112.0-255.255.240.0",
+        "type": "Network",
+        "value": "192.88.112.0/20",
+        "description": "Internet"
+    },
+    {
+        "name": "192.88.128.0-255.255.128.0",
+        "type": "Network",
+        "value": "192.88.128.0/17",
+        "description": "Internet"
+    },
+    {
+        "name": "192.89.0.0-255.255.0.0",
+        "type": "Network",
+        "value": "192.89.0.0/16",
+        "description": "Internet"
+    },
+    {
+        "name": "192.90.0.0-255.254.0.0",
+        "type": "Network",
+        "value": "192.90.0.0/15",
+        "description": "Internet"
+    },
+    {
+        "name": "192.92.0.0-255.252.0.0",
+        "type": "Network",
+        "value": "192.92.0.0/14",
+        "description": "Internet"
+    },
+    {
+        "name": "192.96.0.0-255.224.0.0",
+        "type": "Network",
+        "value": "192.96.0.0/11",
+        "description": "Internet"
+    },
+    {
+        "name": "192.128.0.0-255.224.0.0",
+        "type": "Network",
+        "value": "192.128.0.0/11",
+        "description": "Internet"
+    },
+    {
+        "name": "192.160.0.0-255.248.0.0",
+        "type": "Network",
+        "value": "192.160.0.0/13",
+        "description": "Internet"
+    },
+    {
+        "name": "192.169.0.0-255.255.0.0",
+        "type": "Network",
+        "value": "192.169.0.0/16",
+        "description": "Internet"
+    },
+    {
+        "name": "192.170.0.0-255.254.0.0",
+        "type": "Network",
+        "value": "192.170.0.0/15",
+        "description": "Internet"
+    },
+    {
+        "name": "192.172.0.0-255.252.0.0",
+        "type": "Network",
+        "value": "192.172.0.0/14",
+        "description": "Internet"
+    },
+    {
+        "name": "192.176.0.0-255.240.0.0",
+        "type": "Network",
+        "value": "192.176.0.0/12",
+        "description": "Internet"
+    },
+    {
+        "name": "192.192.0.0-255.192.0.0",
+        "type": "Network",
+        "value": "192.192.0.0/10",
+        "description": "Internet"
+    },
+    {
+        "name": "193.0.0.0-255.0.0.0",
+        "type": "Network",
+        "value": "193.0.0.0/8",
+        "description": "Internet"
+    },
+    {
+        "name": "194.0.0.0-254.0.0.0",
+        "type": "Network",
+        "value": "194.0.0.0/7",
+        "description": "Internet"
+    },
+    {
+        "name": "196.0.0.0-252.0.0.0",
+        "type": "Network",
+        "value": "196.0.0.0/6",
+        "description": "Internet"
+    },
+    {
+        "name": "198.0.0.0-255.240.0.0",
+        "type": "Network",
+        "value": "198.0.0.0/12",
+        "description": "Internet"
+    },
+    {
+        "name": "198.16.0.0-255.254.0.0",
+        "type": "Network",
+        "value": "198.16.0.0/15",
+        "description": "Internet"
+    },
+    {
+        "name": "198.20.0.0-255.252.0.0",
+        "type": "Network",
+        "value": "198.20.0.0/14",
+        "description": "Internet"
+    },
+    {
+        "name": "198.24.0.0-255.248.0.0",
+        "type": "Network",
+        "value": "198.24.0.0/13",
+        "description": "Internet"
+    },
+    {
+        "name": "198.32.0.0-255.240.0.0",
+        "type": "Network",
+        "value": "198.32.0.0/12",
+        "description": "Internet"
+    },
+    {
+        "name": "198.48.0.0-255.254.0.0",
+        "type": "Network",
+        "value": "198.48.0.0/15",
+        "description": "Internet"
+    },
+    {
+        "name": "198.50.0.0-255.255.0.0",
+        "type": "Network",
+        "value": "198.50.0.0/16",
+        "description": "Internet"
+    },
+    {
+        "name": "198.51.0.0-255.255.192.0.0",
+        "type": "Network",
+        "value": "198.51.0.0/18",
+        "description": "Internet"
+    },
+    {
+        "name": "198.51.64.0-255.255.224.0",
+        "type": "Network",
+        "value": "198.51.64.0/19",
+        "description": "Internet"
+    },
+    {
+        "name": "198.51.96.0-255.255.252.0",
+        "type": "Network",
+        "value": "198.51.96.0/22",
+        "description": "Internet"
+    },
+    {
+        "name": "198.51.101.0-255.255.255.0",
+        "type": "Network",
+        "value": "198.51.101.0/24",
+        "description": "Internet"
+    },
+    {
+        "name": "198.51.102.0-255.255.254.0",
+        "type": "Network",
+        "value": "198.51.102.0/23",
+        "description": "Internet"
+    },
+    {
+        "name": "198.51.104.0-255.255.248.0",
+        "type": "Network",
+        "value": "198.51.104.0/21",
+        "description": "Internet"
+    },
+    {
+        "name": "198.51.112.0-255.255.240.0",
+        "type": "Network",
+        "value": "198.51.112.0/20",
+        "description": "Internet"
+    },
+    {
+        "name": "198.51.128.0-255.255.254.0",
+        "type": "Network",
+        "value": "198.51.128.0/23",
+        "description": "Internet"
+    },
+    {
+        "name": "198.52.0.0-255.252.0.0",
+        "type": "Network",
+        "value": "198.52.0.0/14",
+        "description": "Internet"
+    },
+    {
+        "name": "198.56.0.0-255.248.0.0",
+        "type": "Network",
+        "value": "198.56.0.0/13",
+        "description": "Internet"
+    },
+    {
+        "name": "198.64.0.0-255.192.0.0",
+        "type": "Network",
+        "value": "198.64.0.0/10",
+        "description": "Internet"
+    },
+    {
+        "name": "198.128.0.0-255.128.0.0",
+        "type": "Network",
+        "value": "198.128.0.0/9",
+        "description": "Internet"
+    },
+    {
+        "name": "199.0.0.0-255.0.0.0",
+        "type": "Network",
+        "value": "199.0.0.0/8",
+        "description": "Internet"
+    },
+    {
+        "name": "200.0.0.0-248.0.0.0",
+        "type": "Network",
+        "value": "200.0.0.0/5",
+        "description": "Internet"
+    },
+    {
+        "name": "208.0.0.0-240.0.0.0",
+        "type": "Network",
+        "value": "208.0.0.0/4",
+        "description": "Internet"
+    }
+]
