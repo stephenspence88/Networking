@@ -156,9 +156,9 @@
         "description": "Internet"
     },
     {
-        "name": "172.0.0.0-255.224.0.0",
+        "name": "172.0.0.0-255.240.0.0",
         "type": "Network",
-        "value": "172.0.0.0/11",
+        "value": "172.0.0.0/12",
         "description": "Internet"
     },
     {
